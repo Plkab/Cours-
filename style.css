@@ -1,0 +1,51 @@
+p
+{
+	color: black;
+	text-align: justify;
+}
+
+h1
+{
+	text-align: center;
+	box-shadow: 6px 6px 6px black;
+	font-size: 2em;
+}
+
+h2
+{
+	text-align: center;
+	border-radius: 10px;
+	box-shadow: 6px 6px 6px black;
+}
+
+h3
+{
+	text-align: left;
+}
+body {
+  margin: 10;
+  background-color: transparent;
+}
+
+strong {
+  font-weight: bold;
+}
+
+em {
+  font-weight: bold;
+}
+
+mark {
+  background: #ff0;
+  color: #000;
+}
+
+img {
+  border: 0;
+}
+
+ul,
+ol {
+  margin-top: 0;
+  margin-bottom: 9px;
+}
